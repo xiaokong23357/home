@@ -15,4 +15,4 @@
 
 **📖开源**
 
-- xiaokong23357.github.io web开源基于[麻省理工学院许可证（MIT协议）](https://opensource.org/licenses/MIT)下开源
+- **home** web开源基于[麻省理工学院许可证（MIT协议）](https://opensource.org/licenses/MIT)下开源
